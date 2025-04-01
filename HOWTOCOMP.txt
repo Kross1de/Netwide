@@ -1,0 +1,11 @@
+HOW: To compile and run?
+TOOLS NEEDED:
+qemu - Virtual machine or u can use any other
+nasm - ASM compiler
+gcc - C compiler
+make - For compile the OS
+ld - Linker for link and run the ISO file
+-----------------------------------------
+1 step. copy the git repository to your directory: git clone https://github.com/Kross1de/Netwide.git
+2 step. go to copied directory: cd <name idk what are copied>
+3 step. run the makefile script: make run 
